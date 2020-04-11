@@ -1,1 +1,1 @@
-# newGitTest
+Welcome to gitHub
